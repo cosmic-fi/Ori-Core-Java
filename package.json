@@ -1,0 +1,54 @@
+{
+    "name": "ori-core-java",
+    "version": "3.7.2",
+    "types": "./build/Index.d.ts",
+    "exports": {
+        ".": {
+            "import": "./build/Index.js",
+            "require": "./build/Index.js"
+        }
+    },
+    "description": "Minecraft library for running a game",
+    "scripts": {
+        "dev": "rimraf ./build && tsc -w",
+        "build": "rimraf ./build && tsc"
+    },
+    "files": [
+        "assets/**",
+        "build/**",
+        "LICENSE",
+        "README.md"
+    ],
+    "keywords": [
+        "Minecraft",
+        "Launcher",
+        "Node-Minecraft",
+        "Game",
+        "Minecraft-Launcher",
+        "Forge",
+        "Minecraft-Forge"
+    ],
+    "author": "Cosmic-fi",
+    "license": "CCANC",
+    "dependencies": {
+        "adm-zip": "^0.5.9",
+        "node-fetch": "^2.6.9",
+        "prompt": "^1.2.1",
+        "tslib": "^2.4.1"
+    },
+    "devDependencies": {
+        "@types/adm-zip": "^0.5.2",
+        "@types/node": "^18.11.13",
+        "@types/node-fetch": "^2.6.2",
+        "rimraf": "^3.0.2",
+        "typescript": "^4.9.4"
+    },
+    "bugs": {
+        "url": "https://github.com/luuxis/minecraft-java-core/issues"
+    },
+    "homepage": "https://github.com/luuxis/minecraft-java-core#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/luuxis/minecraft-java-core.git"
+    }
+}
