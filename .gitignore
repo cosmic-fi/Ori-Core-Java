@@ -5,3 +5,4 @@ files
 test/*.json
 webfiles/instances/*
 .DS_Store
+test
