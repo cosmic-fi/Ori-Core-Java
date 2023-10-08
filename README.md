@@ -2,7 +2,6 @@
 NodeJS Module for Minecraft launcher functionalities
 
 [![Latest Version](https://img.shields.io/npm/v/ori-core-java?style=social&logo=appveyor)](https://npmjs.com/ori-core-java)
-[![Downloads](https://img.shields.io/npm/dm/ori-core-java.svg?style=social&logo=appveyor)](https://npmjs.com/ori-core-java)
 [![Code Size](https://img.shields.io/github/languages/code-size/cosmic-fi/Ori-Core-Java?style=social&logo=appveyor)](https://npmjs.com/ori-core-java)
 [![Install Size](https://badgen.net/packagephobia/install/ori-core-java)](https://npmjs.com/ori-core-java)
 ---
