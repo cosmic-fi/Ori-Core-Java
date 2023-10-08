@@ -1,6 +1,6 @@
 {
     "name": "ori-core-java",
-    "version": "3.7.2",
+    "version": "1.0.3",
     "types": "./build/Index.d.ts",
     "exports": {
         ".": {
