@@ -8,7 +8,7 @@
             "require": "./build/Index.js"
         }
     },
-    "description": "Minecraft library for running a game",
+    "description": "Simple Minecraft library for launching minecraft game written in Typescript.",
     "scripts": {
         "dev": "rimraf ./build && tsc -w",
         "build": "rimraf ./build && tsc"
@@ -44,11 +44,11 @@
         "typescript": "^4.9.4"
     },
     "bugs": {
-        "url": "https://github.com/luuxis/minecraft-java-core/issues"
+        "url": "https://github.com/cosmic-fi/Ori-Core-Java/issues"
     },
-    "homepage": "https://github.com/luuxis/minecraft-java-core#readme",
+    "homepage": "https://github.com/cosmic-fi/Ori-Core-Java#readme",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/minecraft-java-core.git"
+        "url": "git@github.com:cosmic-fi/Ori-Core-Java.git"
     }
 }
