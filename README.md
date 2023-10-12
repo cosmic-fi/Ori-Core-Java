@@ -6,7 +6,7 @@ NodeJS Module for Minecraft launcher functionalities
 [![Install Size](https://badgen.net/packagephobia/install/ori-core-java)](https://npmjs.com/ori-core-java)
 ---
 
-## Key Features :dizzy:
+## Key Features
 - Automated checks and downloads for compatible Java versions
 - Full support for custom Minecraft versions
 - FTP support without the need for zip files; simply drop folders in your FTP
